@@ -27,8 +27,8 @@
   <div id="fallback"></div>
   <div id="graph"></div>
 
-  <script src="js/sigma.min.js"></script>
-  <script src="js/sigma.parseGexf.js"></script>
+  <script src="http://sigmajs.org/js/sigma.min.js"></script>
+  <script src="http://sigmajs.org/js/sigma.parseGexf.js"></script>
 
   <script>
     function isCanvasSupported(){
@@ -58,7 +58,7 @@
       }).mouseProperties({
         maxRatio: 1
       });
-      sigInst.parseGexf('data/NSU-StrukturNeu20130423_03.gexf');
+      sigInst.parseGexf('NSU-StrukturNeu20130423_03.gexf');
       // Bind events :
       sigInst.bind('overnodes',function(event){
         var nodes = event.content;
