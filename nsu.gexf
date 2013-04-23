@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2013-04-23">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="43" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="27.409147" y="6.347424" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="49" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="15.816454" y="10.254126" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="50" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="23.563267" y="-27.06466" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="51" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="32.199657" y="12.606227" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="34" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-76.52924" y="14.564503" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="38" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-55.14963" y="39.748066" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="8" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.3333335"></viz:size>
+        <viz:position x="-26.646053" y="-20.403288" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="28" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-75.72258" y="7.2636156" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="36" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-60.395267" y="-44.93976" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="12" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-52.092503" y="-49.539795" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="13" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-64.79938" y="-38.15838" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="7" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="51.681454" y="50.882973" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="35" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="38.090355" y="2.3439398" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="42" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="3.6964757" y="63.19955" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="9" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.3333335"></viz:size>
+        <viz:position x="-5.943379" y="15.385263" z="0.0"></viz:position>
+        <viz:color r="255" g="51" b="51"></viz:color>
+      </node>
+      <node id="44" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="8.516607" y="11.525437" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="17" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="88.97457" y="22.145187" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="18" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="90.332085" y="7.817686" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="14" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="-66.16182" y="27.301437" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="40" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-78.18369" y="35.677322" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="46" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="54.6751" y="-58.959915" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="47" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="73.91984" y="-43.961143" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="23" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="60.298157" y="-3.602113" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="41" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="66.03013" y="24.093897" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="52" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="0.3561635" y="0.6495309" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="29" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="-61.757866" y="-12.083085" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="20" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.3333335"></viz:size>
+        <viz:position x="56.410534" y="5.2202973" z="0.0"></viz:position>
+        <viz:color r="255" g="51" b="51"></viz:color>
+      </node>
+      <node id="11" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="-4.1398005" y="-41.649666" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="33" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.0"></viz:size>
+        <viz:position x="-51.240784" y="45.71075" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="16" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.0"></viz:size>
+        <viz:position x="41.369366" y="8.188211" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="1" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="50.325695" y="-37.02309" z="0.0"></viz:position>
+        <viz:color r="204" g="0" b="51"></viz:color>
+      </node>
+      <node id="37" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.6666667"></viz:size>
+        <viz:position x="-20.495838" y="11.514633" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="24" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="2.3333333"></viz:size>
+        <viz:position x="-68.76722" y="-0.30505502" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="10" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-32.862633" y="11.079179" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="2" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="9.333334"></viz:size>
+        <viz:position x="2.7804837" y="42.5143" z="0.0"></viz:position>
+        <viz:color r="255" g="51" b="51"></viz:color>
+      </node>
+      <node id="3" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="8.666666"></viz:size>
+        <viz:position x="-6.328981" y="-22.500307" z="0.0"></viz:position>
+        <viz:color r="204" g="0" b="51"></viz:color>
+      </node>
+      <node id="4" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="6.0"></viz:size>
+        <viz:position x="-46.793095" y="-33.059044" z="0.0"></viz:position>
+        <viz:color r="255" g="51" b="51"></viz:color>
+      </node>
+      <node id="5" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="5.666667"></viz:size>
+        <viz:position x="-55.220757" y="14.924405" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="6" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="4.333333"></viz:size>
+        <viz:position x="-34.37187" y="30.61604" z="0.0"></viz:position>
+        <viz:color r="255" g="51" b="51"></viz:color>
+      </node>
+      <node id="27" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="42.342545" y="35.03257" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="15" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="4.333333"></viz:size>
+        <viz:position x="73.96624" y="18.125492" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+      <node id="19" label="Test">
+        <attvalues></attvalues>
+        <viz:size value="3.6666665"></viz:size>
+        <viz:position x="48.814575" y="18.485811" z="0.0"></viz:position>
+        <viz:color r="153" g="153" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="43" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="49" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="50" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="51" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="38" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="8" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="28" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="12" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="13" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="35" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="42" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="9" target="44" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="44" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="17" target="18" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="18" target="15" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="14" target="40" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="46" target="47" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="47" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="23" target="41" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="41" target="27" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="52" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="29" target="10" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="20" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="11" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="33" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="16" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="37" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="43" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="49" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="50" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="1" target="51" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="24" target="10" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="10" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="37" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="4" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="15" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="9" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="43" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="44" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="49" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="50" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="51" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="2" target="14" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="3" target="37" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="5" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="14" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="8" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="4" target="36" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="6" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="34" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="29" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="14" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="5" target="8" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="6" target="27" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="27" target="7" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="19" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="20" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="17" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="15" target="16" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="1" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="2" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="3" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="20" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+      <edge source="19" target="27" label="(Nazi)">
+        <attvalues></attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

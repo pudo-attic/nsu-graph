@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>NSU</title>
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <style>
+    #graph {
+      width: 522px;
+      height: 400px;
+      background-color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div id="graph"></div>
+
+  <script src="http://sigmajs.org/js/sigma.min.js"></script>
+  <script src="http://sigmajs.org/js/sigma.parseGexf.js"></script>
+
+  <script>
+    function init() {
+        var sigInst = sigma.init(document.getElementById('graph')).drawingProperties({
+          defaultLabelColor: '#000',
+          defaultLabelSize: 14,
+          defaultLabelBGColor: '#fff',
+          defaultLabelHoverColor: '#000',
+          labelThreshold: 15,
+          defaultEdgeType: 'curve'
+        }).graphProperties({
+          minNodeSize: 2,
+          maxNodeSize: 25,
+          minEdgeSize: 1,
+          drawHoverNodes: false,
+          maxEdgeSize: 1
+        }).mouseProperties({
+          maxRatio: 1
+        });
+      sigInst.parseGexf('NSU-StrukturNeu20130423_03.gexf');
+      // Bind events :
+      sigInst.bind('overnodes',function(event){
+        var nodes = event.content;
+        var neighbors = {};
+        sigInst.iterEdges(function(e){
+          if(nodes.indexOf(e.source)>=0 || nodes.indexOf(e.target)>=0){
+            neighbors[e.source] = 1;
+            neighbors[e.target] = 1;
+          }
+        }).iterNodes(function(n){
+          if(!neighbors[n.id]){
+            n.hidden = 1;
+          }else{
+            n.hidden = 0;
+          }
+        }).draw(2,2,2);
+      }).bind('outnodes',function(){
+        sigInst.iterEdges(function(e){
+          e.hidden = 0;
+        }).iterNodes(function(n){
+          n.hidden = 0;
+        }).draw(2,2,2);
+      });
+      sigInst.draw();
+
+    }
+
+    if (document.addEventListener) {
+      document.addEventListener('DOMContentLoaded', init, false);
+    } else {
+      window.onload = init;
+    }
+  </script>
+</body>
+</html>
