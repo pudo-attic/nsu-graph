@@ -7,6 +7,10 @@
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
   <style>
+    body {
+      max-width: 522px;
+    }
+
     #graph, #fallback {
       position: absolute;
       width: 522px;
@@ -21,11 +25,24 @@
     #fallback {
       background: url(img/fallback.png) no-repeat;
     }
+
+    p {
+      position: absolute;
+      top: 410px;
+      font-family: Verdana, sans-serif;
+      font-size: 11px;
+      color: #999;
+    }
+
   </style>
 </head>
 <body>
   <div id="fallback"></div>
   <div id="graph"></div>
+
+  <p>Beschuldigte im Münchener Prozess werden rot dargestellt. Die Größe der Kreise gibt die
+     Zahl der Kontakte im NSU-Umfeld wieder.</p>
+
 
   <script src="js/sigma.min.js"></script>
   <script src="js/sigma.parseGexf.js"></script>
@@ -38,6 +55,11 @@
 
     function init() {
       if (!isCanvasSupported()) {
+        return;
+      }
+
+      if (window.navigator.userAgent.indexOf("msie") >= 1 ||
+          window.navigator.userAgent.indexOf("MSIE") >= 1) {
         return;
       }
 
@@ -58,7 +80,7 @@
       }).mouseProperties({
         maxRatio: 1
       });
-      sigInst.parseGexf('data/NSU-StrukturNeu20130423_03.gexf');
+      sigInst.parseGexf('data/NSU-StrukturNeu20130423_03.gexf.xml');
       // Bind events :
       sigInst.bind('overnodes',function(event){
         var nodes = event.content;
