@@ -30,31 +30,31 @@
         <viz:position x="175.8592" y="27.805351" z="0.0"></viz:position>
         <viz:color r="204" g="0" b="51"></viz:color>
       </node>
-      <node id="4" label="Ralf W.">
+      <node id="4" label="Ralf W.: Koordination, Waffe, Geld">
         <attvalues></attvalues>
         <viz:size value="11.0"></viz:size>
         <viz:position x="54.270187" y="42.19747" z="0.0"></viz:position>
         <viz:color r="255" g="51" b="51"></viz:color>
       </node>
-      <node id="5" label="André K.">
+      <node id="5" label="André K.: Geld, Fluchtorganisation">
         <attvalues></attvalues>
         <viz:size value="10.166667"></viz:size>
         <viz:position x="49.026356" y="8.704436" z="0.0"></viz:position>
         <viz:color r="153" g="153" b="153"></viz:color>
       </node>
-      <node id="6" label="Holger G.">
+      <node id="6" label="Holger G.: Ausweise, Waffe">
         <attvalues></attvalues>
         <viz:size value="6.833333"></viz:size>
         <viz:position x="94.61437" y="72.87324" z="0.0"></viz:position>
         <viz:color r="255" g="51" b="51"></viz:color>
       </node>
-      <node id="15" label="Mandy S.">
+      <node id="15" label="Mandy S.: Ausweise, Wohnung">
         <attvalues></attvalues>
         <viz:size value="6.833333"></viz:size>
         <viz:position x="220.75317" y="-41.906693" z="0.0"></viz:position>
         <viz:color r="153" g="153" b="153"></viz:color>
       </node>
-      <node id="9" label="Carsten Sch.">
+      <node id="9" label="Carsten S.: Waffe">
         <attvalues></attvalues>
         <viz:size value="4.3333335"></viz:size>
         <viz:position x="88.05906" y="49.731266" z="0.0"></viz:position>
@@ -102,7 +102,7 @@
         <viz:position x="23.177908" y="16.268984" z="0.0"></viz:position>
         <viz:color r="153" g="153" b="153"></viz:color>
       </node>
-      <node id="10" label="Tino B.">
+      <node id="10" label="Tino B.: Fluchtorganisation">
         <attvalues></attvalues>
         <viz:size value="6.0"></viz:size>
         <viz:position x="63.68585" y="-8.678395" z="0.0"></viz:position>
@@ -120,19 +120,19 @@
         <viz:position x="16.483324" y="-34.964157" z="0.0"></viz:position>
         <viz:color r="153" g="153" b="153"></viz:color>
       </node>
-      <node id="19" label="Max-Florian B.">
+      <node id="19" label="Max-Florian B.: Ausweis, Wohnung">
         <attvalues></attvalues>
         <viz:size value="5.1666665"></viz:size>
         <viz:position x="211.45166" y="10.6238828" z="0.0"></viz:position>
         <viz:color r="153" g="153" b="153"></viz:color>
       </node>
-      <node id="20" label="Andre E.">
+      <node id="20" label="André E.: Ausweise, Falschaussage, Autos, Geld, Wohnung">
         <attvalues></attvalues>
         <viz:size value="4.3333335"></viz:size>
         <viz:position x="213.3404" y="-3.0569708" z="0.0"></viz:position>
         <viz:color r="255" g="51" b="51"></viz:color>
       </node>
-      <node id="27" label="Thomas S.">
+      <node id="27" label="Thomas S.: Fluchtorganisation, Sprengstoff">
         <attvalues></attvalues>
         <viz:size value="6.0"></viz:size>
         <viz:position x="153.76433" y="75.4258" z="0.0"></viz:position>
